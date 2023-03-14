@@ -1,0 +1,29 @@
+#login_button{
+    color:pink;
+    background-color:aliceblue;
+    border-color: indianred;
+    }
+
+#logout_button{
+
+    color:plum;
+    background-color:aliceblue;
+    border-color: lightpink;
+    
+}
+
+
+#add_room_button{
+    color:powderblue;
+    background-color: aliceblue;
+    border-color: palevioletred;
+    
+}
+#room_name{
+    color: lightcoral;
+    background-color: lavender;
+}
+#user_name{
+    color: lightblue;
+    background-color: lavenderblush;
+}
